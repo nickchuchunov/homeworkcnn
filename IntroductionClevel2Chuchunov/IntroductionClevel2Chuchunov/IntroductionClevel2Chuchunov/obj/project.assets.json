@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\homeworkcnn\\IntroductionClevel1Chuchunov1.1\\IntroductionClevel_1Chuchunov\\IntroductionClevel_1Chuchunov\\IntroductionClevel_1Chuchunov.csproj",
-      "projectName": "IntroductionClevel_1Chuchunov",
-      "projectPath": "H:\\homeworkcnn\\IntroductionClevel1Chuchunov1.1\\IntroductionClevel_1Chuchunov\\IntroductionClevel_1Chuchunov\\IntroductionClevel_1Chuchunov.csproj",
+      "projectUniqueName": "H:\\homeworkcnn\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov.csproj",
+      "projectName": "IntroductionClevel2Chuchunov",
+      "projectPath": "H:\\homeworkcnn\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov.csproj",
       "packagesPath": "C:\\Users\\chuch\\.nuget\\packages\\",
-      "outputPath": "H:\\homeworkcnn\\IntroductionClevel1Chuchunov1.1\\IntroductionClevel_1Chuchunov\\IntroductionClevel_1Chuchunov\\obj\\",
+      "outputPath": "H:\\homeworkcnn\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov\\IntroductionClevel2Chuchunov\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,12 +60,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.12, 3.1.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
