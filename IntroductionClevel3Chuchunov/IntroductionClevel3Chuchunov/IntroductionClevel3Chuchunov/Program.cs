@@ -43,7 +43,28 @@ namespace IntroductionClevel3Chuchunov
             Console.WriteLine(s3);
 
 
-            
+
+
+            /*Задание Номер 3 . 2-й способ вывода строки в обраьном порядке */
+            Console.WriteLine("Вывод текста в обратном порядке способ №2");
+            Console.WriteLine("введите текст для преобразования в обратный порядок");
+
+            string m = Console.ReadLine();
+            byte[] m2 = System.Text.Encoding.Default.GetBytes(m);
+
+
+
+
+            byte[] m4 = new Byte[m2.Length];
+
+            int q = 0;
+            for (int i = m2.Length - 1; i >= 0; i--)
+            { q = q + 1; m4[q - 1] = m2[i]; };
+            string m3 = System.Text.Encoding.Default.GetString(m4);
+            Console.WriteLine(m3);
+
+
+
         }
     }
 }
