@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Artem_new\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Artem_new\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Level_1.137342210.00" t="ExcludeRecursive" />
+    <e p="D:\С#_1\Level_1" t="IncludeFlat">
+      <e p="Level_1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lesson_1" t="Include">
+          <e p="MainClass.cs" t="Include" />
+        </e>
+        <e p="Level_1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Level_1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Level_1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

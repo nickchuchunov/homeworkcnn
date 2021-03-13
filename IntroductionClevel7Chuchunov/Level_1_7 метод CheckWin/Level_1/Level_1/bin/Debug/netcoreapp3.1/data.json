@@ -1,0 +1,934 @@
+{
+  "project_id": 62,
+  "wells": [{
+    "name": "PROD1",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD10",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD11",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD12",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD13",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD14",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD15",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD16",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD17",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD18",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD19",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD2",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD20",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD21",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD22",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD23",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD24",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD25",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD3",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD4",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD5",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD6",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD7",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD8",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }, {
+    "name": "PROD9",
+    "status": "WORKING",
+    "operation_type": "ESP",
+    "frequency": 50.0,
+    "pvt": {
+      "watercut": 0.5,
+      "gas_oil_ratio": 1.1,
+      "rho_oil": 859.0,
+      "rho_water": 1000.0,
+      "gas_rel_density": 0.89,
+      "temperature": 20.0,
+      "water_heat_capacity": 4190.0,
+      "gas_heat_capacity": 2200.0,
+      "oil_heat_capacity": 2000.0,
+      "viscosity": {
+        "correlation_type": "TWO_POINT",
+        "mu_oil_20_cp": 13.9,
+        "mu_oil_50_cp": 5.4
+      }
+    },
+    "model": {
+      "pressures": [5.0, 10.0],
+      "frequencies": [40.0, 50.0, 60.0],
+      "flow_rates": [ [8000.0, 4000.0]
+      ,  [12000.0, 6000.0]
+      ,  [20000.0, 10000.0]
+      ],
+      "bottomhole_pressures": [ [50.0, 60.0]
+      ,  [40.0, 50.0]
+      ,  [30.0, 40.0]
+      ],
+      "electric_power_values": [ [10.0, 1.0]
+      ,  [20.0, 2.0]
+      ,  [30.0, 3.0]
+      ]
+    }
+  }],
+  "gathering_centers": {
+    "name": "CPF_1",
+    "flow_rates": [100000.0, 100000.0],
+    "pressures_atm": [5.0, 5.0]
+  }
+}
