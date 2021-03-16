@@ -1,0 +1,4 @@
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\hello_lesson_8\obj\Debug\netcoreapp3.1\hello_lesson_8.csprojAssemblyReference.cache
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\hello_lesson_8\obj\Debug\netcoreapp3.1\hello_lesson_8.AssemblyInfoInputs.cache
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\hello_lesson_8\obj\Debug\netcoreapp3.1\hello_lesson_8.AssemblyInfo.cs
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\hello_lesson_8\obj\Debug\netcoreapp3.1\hello_lesson_8.csproj.CoreCompileInputs.cache

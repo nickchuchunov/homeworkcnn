@@ -1,0 +1,9 @@
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+H:\homeworkcnn\IntroductionClevel8Chuchunov\IntroductionClevel8Chuchunov\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb

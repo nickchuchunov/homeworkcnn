@@ -37,3 +37,16 @@ H:\homeworkcnn\Level_1_7\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.runtime
 H:\homeworkcnn\Level_1_7\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.dll
 H:\homeworkcnn\Level_1_7\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.pdb
 H:\homeworkcnn\Level_1_7\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.genruntimeconfig.cache
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.exe
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.deps.json
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.runtimeconfig.json
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.runtimeconfig.dev.json
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.dll
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\bin\Debug\netcoreapp3.1\Level_1.pdb
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.csprojAssemblyReference.cache
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.AssemblyInfoInputs.cache
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.AssemblyInfo.cs
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.csproj.CoreCompileInputs.cache
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.dll
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.pdb
+H:\homeworkcnn\IntroductionClevel7Chuchunov\Level_1_7 метод CheckWin\Level_1\Level_1\obj\Debug\netcoreapp3.1\Level_1.genruntimeconfig.cache
